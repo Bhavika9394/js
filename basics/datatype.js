@@ -16,3 +16,21 @@ let name="bhaivka" //string
 //object
 
 console.log(typeof "bhavika");
+
+// primitive datatype return datatype object
+
+// 7 types: String,Number,Boolean,null,undefined,Symbol,BigInt
+
+
+// REFERENCE TYPE(non primitive)
+//Array,Objects,Functions
+const heros=["havi","hari"]
+
+let myObj={
+    name:"bhavika",
+    age:20,
+}
+
+const myFunction=function(){
+    console.log("hello world");
+}
